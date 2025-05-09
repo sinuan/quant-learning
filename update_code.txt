@@ -1,0 +1,4 @@
+cd ./test # 进入到test这个仓库文件目录下
+git add test.txt
+git commit -m "for test" # 提交信息为for test
+git push origin main
